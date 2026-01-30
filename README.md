@@ -12,7 +12,7 @@ I'm **elektrick.**
 
   I'm a pretty big **gdps** enthusiast, running one myself and also creating my own core and tools.
 
-  ## Projects:
+  # Projects:
   - CHRONOS
   - ReDash
   - OneCore
